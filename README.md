@@ -7,7 +7,7 @@
 
 3. **Hybrid Systems:** Combine content-based and collaborative filtering for more accurate recommendations.
 
-These systems are used in various platforms like e-commerce, streaming services, and social media to personalize user experiences and increase engagement.<br?
+These systems are used in various platforms like e-commerce, streaming services, and social media to personalize user experiences and increase engagement.<br>
 Here the recommendation system is build for movies and It is of **Hybrid type(both content and collaborative filtering is used)**.<br>
 # Dataset:
 Movielens Dataset of 9000 movies is used. Dataset can be found [here](https://grouplens.org/datasets/movielens/)
